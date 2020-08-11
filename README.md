@@ -1,7 +1,5 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on...
-
 - 🌱 I’m currently learning and working with  **[Typescript](https://www.typescriptlang.org/index.html)**, **[Nextjs](https://nextjs.org/)**, **[Apollo 3.0](https://www.apollographql.com/)**, **[styled-component](https://www.styled-components.com/)**, **[React](https://reactjs.org/)**, **[Flutter](https://flutter.dev/)**, **[Dart](https://dart.dev/)** and many other technologies.
 
 - 👯 I’m looking to collaborate on projects related to frontend development majorly react and it ecosystem
