@@ -6,7 +6,7 @@
 
 - 💬 Ask me about frontend development
 
-- 👔 Here is my **[portfolio](https://aminajao.netlify.app)
+- 👔 Here is my **[Portfolio](https://aminajao.netlify.app)**,
 
 - 📫 How to reach me: **[Github right here](https://github.com/aminajao)**,  **[LinkedIn](https://linkedin.com/in/aminajao)**,  **[Twitter](https://twitter.com/amin_ajao)**,  **[Blog](https://hashnode.com/@Bildev)**,
 
