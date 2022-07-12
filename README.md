@@ -6,6 +6,8 @@
 
 - 💬 Ask me about frontend development
 
+- 👋 I am currently exploring golang and devops 
+
 - 👔 Here is my **[Portfolio](https://aminajao.netlify.app)**.
 
 - 📫 How to reach me: **[Github right here](https://github.com/aminajao)**,  **[LinkedIn](https://linkedin.com/in/aminajao)**,  **[Twitter](https://twitter.com/amin_ajao)**,  **[Blog](https://hashnode.com/@Bildev)**,
